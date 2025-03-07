@@ -1,1 +1,94 @@
-# projects-idea
+# Projects-idea
+
+- Agriculture
+- Alternative Power
+- Animals or Pets
+- Antique
+- App or Application
+- Architecture
+- Art or Photography
+- Beauty
+- Blog
+- Books
+- Bootstrap
+- Brewery
+- Business
+- Cafe or Restaurant
+- Cars
+- Celebration
+- Charity
+- Christmas
+- Clean
+- Communications
+- Computers
+- Control Panel
+- Corporate
+- Dating
+- Design
+- Eco
+- eCommerce
+- Education
+- Electronics
+- Entertainment
+- Environmental
+- Events
+- Exterior Design
+- Family
+- Fashion
+- Finance
+- Fitness
+- Flowers
+- Food or Drink
+- Forum
+- Gallery
+- Games
+- Gifts
+- Government
+- Health or Healthcare
+- Holiday
+- Hosting
+- Hotels
+- Icons
+- Industry
+- Interface
+- Interior or Furniture
+- Internet
+- Jewellery
+- jQuery
+- Law
+- Lawyer or Legal
+- Lifestyle
+- Magazine
+- Marketing
+- Media
+- Medical
+- Military
+- Minimalistic
+- Multipurpose
+- Music
+- News
+- Night Club
+- Online Shop
+- One Page
+- Outdoors
+- Personal
+- Politics
+- Portal
+- Portfolio
+- Premium
+- Real Estate
+- Religion
+- Responsive
+- School
+- Science
+- Security
+- Services
+- Society or Culture
+- Software
+- Sport
+- Tools or Equipment
+- Transport
+- Travel
+- TV or Radio
+- Webdesign
+- Wedding
