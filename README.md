@@ -1,4 +1,4 @@
-# Projects-idea
+# projects-idea
 
 - Agriculture
 - Alternative Power
